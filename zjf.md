@@ -17,7 +17,7 @@
 | 自然语言| 英语 / 日语| 
 | OS| Windows / Linux| 
 | 软件环境 | Eclipse / VScode / Intellij IDEA / phpStorm / Apache Tomcat / FileZilla / Xshell| 
-| 框架技术 | SSH / SSM / jsp / JSTL / EL / Ajax / Jquery / Bootstrap / Maven / git / SVN| 
+| 框架技术 | SSH / SSM / jsp / JSTL / EL / Ajax / Jquery / Bootstrap / Maven / git / SVN / VUE| 
 | 数据库 | MySQL / Oracle / Redis | 
 | 其他 | PS / Pr / AE / Au | 
 ---
